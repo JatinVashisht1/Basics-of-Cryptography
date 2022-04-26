@@ -40,4 +40,4 @@ It is a method of storing and transmitting data in a particular form so that onl
     - Used with digital computer systems
     - Processes bits/bytes
 - Distribution of cryptography considering the history and method of the cryptography
-![cryptodiagram](assets/cryptodiagram.png)
+![cryptodiagram](cryptodiagram.png)
