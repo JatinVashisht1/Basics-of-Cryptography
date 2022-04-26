@@ -41,3 +41,19 @@ It is a method of storing and transmitting data in a particular form so that onl
     - Processes bits/bytes
 - Distribution of cryptography considering the history and method of the cryptography
 ![cryptodiagram](cryptodiagram.png)
+
+#### Classical cryptography
+- It can be classified into two
+    1. Confusion (Substitution): letters are replaced with other letters.
+    2. Diffusion (Transposition) : the position of the letters are changed
+
+- These two are the divided into two categories:
+    1. Monoalphabetic: This only considers one letter when replacicng the letters
+    2. Ployalphabetic: This considers a set of characters when replacing the letters
+#### Modern cryptography
+- It can be categorized into two
+    1. Symmetric: use one key for encryption and decryption
+    2. Asymmetric: There is a key pair (private and public). Use public key for encryption and private key for decryption
+- These two are further divided into two categories
+    1. Stream Cipher: Consider only one bit at a time
+    2. Block Cipher: Consider a bock of bits at a time
