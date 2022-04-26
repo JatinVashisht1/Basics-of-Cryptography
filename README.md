@@ -1,6 +1,8 @@
 # Getting started with **cryptography**
-- This article/readme is based on a medium article about cryptography
-    - click [here](https://medium.com/@nshani/getting-started-with-cryptography-and-key-concepts-5e89c7687939) to read the article
+- This article/readme is based on two medium articles about cryptography
+    - click [here](https://medium.com/@nshani/getting-started-with-cryptography-and-key-concepts-5e89c7687939) to read the first article
+    - click [here](https://medium.com/@nshani/basic-principles-of-cryptography-9a282e7a2d2d) to read the second article
+    
 ## Cryptology
 - Cryptology is the mathematics such as number theory and the applications of formulas and algorithms that act as base of cryptography and crpytanalysis
 - Cryptology is the science of secret messages. Anything that has to do with making or breaking codes falls into cryptology's domain.
@@ -40,7 +42,7 @@ It is a method of storing and transmitting data in a particular form so that onl
     - Used with digital computer systems
     - Processes bits/bytes
 - Distribution of cryptography considering the history and method of the cryptography
-![cryptodiagram](cryptodiagram.png)
+![cryptodiagram](assets/cryptodiagram.png)
 
 #### Classical cryptography
 - It can be classified into two
@@ -57,3 +59,10 @@ It is a method of storing and transmitting data in a particular form so that onl
 - These two are further divided into two categories
     1. Stream Cipher: Consider only one bit at a time
     2. Block Cipher: Consider a bock of bits at a time
+
+---
+## Kerckhoff's principle on cryptography
+- Kerkchoff's principle states that,
+"a cryptographic system should be designed to be secure, even if all its details, except for the key, are publicaly known"
+#### basic flow of encryption
+![basic flow of encryption](assets/encryption_basic_flow.png)
