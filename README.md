@@ -64,5 +64,12 @@ It is a method of storing and transmitting data in a particular form so that onl
 ## Kerckhoff's principle on cryptography
 - Kerkchoff's principle states that,
 "a cryptographic system should be designed to be secure, even if all its details, except for the key, are publicaly known"
-#### basic flow of encryption
+### basic flow of encryption
 ![basic flow of encryption](assets/encryption_basic_flow.png)
+### Cryptographic Algorithm and Protocol
+- Cryptographic Algorithm: Primitive
+    - Primitive: [Cryptographic primitives are well-established, low-level cryptographic algorithms that are frequently used to build cryptographic protocols for computer security systems.](https://en.wikipedia.org/wiki/Cryptographic_primitive)
+- Cryptographic Protocol: How to use primitives
+
+- Security only depends on the eys not what happens at the ends.
+    - All the cryptographic algorithms are public!.
