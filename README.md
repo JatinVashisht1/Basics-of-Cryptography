@@ -80,7 +80,7 @@ It is a method of storing and transmitting data in a particular form so that onl
 - All keys are known by Alice and Bob
 - Either alice or bob can be interchanged as sender or reciever at any time as keys are not bind with the person
 ### Asymmetric Cryptograhy (Public Key Cryptography)
-[!Asymmetric Cryptography](/assets//asymmetric_cryptography.png)
+[!Asymmetric Cryptography](/assets/asymmetric_cryptography.png)
 - Public keys and secret keys
 - Secret keys known only by owner
 - bob and Alice use different keys
